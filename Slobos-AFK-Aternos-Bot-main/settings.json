@@ -7,30 +7,7 @@
   "server": {
     "ip": "pixel-knpY.aternos.me",
     "port": "25565",
-    "version": "1.21.1"
-  }
-}
-  "position": {
-    "enabled": false,
-    "x": 0,
-    "y": 100,
-    "z": 0
-  },
-  "utils": {
-    "auto-auth": {
-      "enabled": true,
-      "password": "chalol78"
-    },
-    "anti-afk": {
-      "enabled": true,
-      "sneak": true
-    },
-    "chat-messages": {
-      "enabled": true,
-      "repeat": true,
-      "repeat-delay": 120,
-    },
-    "chat-log": true,
+    "version": "1.21.1",
     "auto-reconnect": true,
     "auto-reconnect-delay": 2000,
     "max-reconnect-delay": 120000
