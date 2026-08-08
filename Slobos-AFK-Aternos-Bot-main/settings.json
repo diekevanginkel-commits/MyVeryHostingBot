@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Jeffrey",
   "bot-account": {
     "username": "SEVERbot",
     "type": "mojang"
   },
   "server": {
-    "ip": "ZorritosMechanics.aternos.me:16184",
-    "port": 16184,
-    "version": "1.21.11",
+    "ip": "pixel-knpY.aternos.me.me",
+    "port": 25565,
+    "version": "1.26.2",
   },
   "position": {
     "enabled": false,
