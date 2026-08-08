@@ -5,7 +5,7 @@
     "type": "mojang"
   },
   "server": {
-    "ip": "pixel-knpY.aternos.me.me",
+    "ip": "pixel-knpY.aternos.me",
     "port": 25565,
     "version": "1.26.2",
   },
