@@ -4,11 +4,12 @@
     "username": "SEVERbot",
     "type": "mojang"
   },
-  "server": {
-    "ip": "pixel-knpY.aternos.me",
-    "port": 25565,
-    "version": "1.21.11",
-  },
+  {
+  "ip": "pixel-knpY.aternos.me",
+  "port": "25565",
+  "name": "AternosBot",
+  "version": "1.21.11"
+}
   "position": {
     "enabled": false,
     "x": 0,
