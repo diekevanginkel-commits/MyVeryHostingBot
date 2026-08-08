@@ -1,14 +1,14 @@
 {
   "name": "aternosbot",
   "bot-account": {
-    "username": "SEVERbot",
-    "type": "mojang"
+    "username": "SERVERbot",
+    "type": "offline"
   },
-  {
-  "ip": "pixel-knpY.aternos.me",
-  "port": "25565",
-  "name": "AternosBot",
-  "version": "1.21.11"
+  "server": {
+    "ip": "pixel-knpY.aternos.me",
+    "port": "25565",
+    "version": "1.21.1"
+  }
 }
   "position": {
     "enabled": false,
