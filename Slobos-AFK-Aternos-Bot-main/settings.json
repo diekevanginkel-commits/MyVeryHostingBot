@@ -7,11 +7,12 @@
   "server": {
     "ip": "pixel-knpY.aternos.me",
     "port": "25565",
-    "version": "1.21.1",
-    "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 120000
+    "version": "1.21.1"
   },
+  "chat-log": true,
+  "auto-reconnect": true,
+  "auto-reconnect-delay": 2000,
+  "max-reconnect-delay": 120000,
   "movement": {
     "enabled": true,
     "circle-walk": {
